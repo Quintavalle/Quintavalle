@@ -7,5 +7,5 @@
   - 👨‍💻 &nbsp; Languages:  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25">
   - 📄 &nbsp; Fluent in Italian and English.
   - 🤝 &nbsp; Looking for new job opportunities.
-  - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/giorgio-quintavalle-6527a92a5/) [Gmail](quintavallegiorgio3@gmail.com)
+  - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/giorgio-quintavalle-6527a92a5/) [Mail](quintavalle.giorgio@yahoo.it)
       
