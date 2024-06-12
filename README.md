@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Giorgio Quintavalle 👋 </h1>
-<h3 align="center">🚀 Backend Developer 🚀</h3>
+<h3 align="center">🚀 FullStack Developer 🚀</h3>
   <h3> About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies, fast learner with great comunication skills.
